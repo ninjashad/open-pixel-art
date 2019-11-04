@@ -1,0 +1,19 @@
+{
+  "name": "open-pixel-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjashad/open-pixel-art.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjashad/open-pixel-art/issues"
+  },
+  "homepage": "https://github.com/ninjashad/open-pixel-art#readme"
+}
